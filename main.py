@@ -1,3 +1,3 @@
 def hello():
     print("Hello")
-    print("World")
+    print("My Friend")
